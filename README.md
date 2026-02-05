@@ -185,7 +185,7 @@ print(cnpj_alphanumeric)
 - Algoritmo módulo 11
 - Rejeita CPFs inválidos com dígitos repetidos (e.g. `11111111111`)
 
-### CNPJ (Alphanumeric)
+### CNPJ (Alfanumérico)
 - Aceita números (0–9) e letras (A–Z)
 - Conversão baseada em valor ASCII:
   `value = ord(char) - ord('0')`
